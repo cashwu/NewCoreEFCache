@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "testEFCoreCacheable": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "http://localhost:12507",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
